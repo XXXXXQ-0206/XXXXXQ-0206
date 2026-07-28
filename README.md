@@ -15,7 +15,7 @@ I have also worked on SSVEP-based brain-computer interaction for humanoid assist
 ## Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,cs,cpp,vue,react,js,ts,html,css,fastapi,docker,linux,git,github,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ccs%2Ccpp%2Cvue%2Creact%2Cjs%2Cts%2Chtml%2Ccss%2Cfastapi%2Cdocker%2Clinux%2Cgit%2Cgithub%2Cvscode&amp;theme=dark" />
   <img src="https://skillicons.dev/icons?i=python,cs,cpp,vue,react,js,ts,html,css,fastapi,docker,linux,git,github,vscode&theme=light" alt="Python, C#, C++, Vue, React, JavaScript, TypeScript, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub, and VS Code" />
 </picture>
 
