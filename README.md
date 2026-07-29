@@ -2,6 +2,8 @@
 
 I am a Computer Science student at Chongqing University, exploring embodied intelligence, personalized multimodal understanding, and agentic systems.
 
+[Personal Website](https://xxxxxq-0206.github.io/)
+
 `Embodied AI` · `Multimodal Learning` · `Agent Systems` · `Computer Architecture`
 
 ## About Me
@@ -16,10 +18,10 @@ I have also worked on SSVEP-based brain-computer interaction for humanoid assist
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ccs%2Ccpp%2Cvue%2Creact%2Cjs%2Cts%2Chtml%2Ccss%2Cfastapi%2Cdocker%2Clinux%2Cgit%2Cgithub%2Cvscode&amp;theme=dark" />
-  <img src="https://skillicons.dev/icons?i=python,cs,cpp,vue,react,js,ts,html,css,fastapi,docker,linux,git,github,vscode&theme=light" alt="Python, C#, C++, Vue, React, JavaScript, TypeScript, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,vue,react,js,ts,html,css,fastapi,docker,linux,git,github,vscode&amp;theme=light" alt="Python, C#, C++, Vue, React, JavaScript, TypeScript, HTML, CSS, FastAPI, Docker, Linux, Git, GitHub, and VS Code" />
 </picture>
 
-OpenAI APIs · LLMs · RAG · LangChain · LangGraph · multi-agent systems · prompt engineering · tool calling · REST APIs · Codex · Claude Code · Verilog · Vivado · PetaLinux · FPGA · AXI · ROS 2 · Pinocchio · CasADi
+OpenAI APIs · RAG · LangChain · LangGraph · Verilog · Vivado · PetaLinux · FPGA · AXI · ROS 2 · Pinocchio · CasADi · [pi](https://github.com/earendil-works/pi)
 
 ## What I Work On
 
